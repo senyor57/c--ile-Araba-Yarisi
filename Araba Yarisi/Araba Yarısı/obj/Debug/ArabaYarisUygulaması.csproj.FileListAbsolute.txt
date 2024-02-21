@@ -1,0 +1,11 @@
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.exe.config
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.exe
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.pdb
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\ArabaYarisUygulaması.csproj.AssemblyReference.cache
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\ArabaYarisUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\Araba_Yarısı.Form1.resources
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\Araba_Yarısı.Properties.Resources.resources
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\ArabaYarisUygulaması.csproj.GenerateResource.cache
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\ArabaYarisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.exe
+C:\Users\ozans\source\repos\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.pdb
